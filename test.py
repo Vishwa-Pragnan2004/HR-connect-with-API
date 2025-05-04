@@ -1,8 +1,4 @@
-"""
-Test script for ConneXion.
 
-Author: Ethan Baker
-"""
 import os
 import time
 import random
